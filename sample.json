@@ -1,0 +1,14 @@
+{
+      "identity": [
+        {
+          "name": "Tyan Ananda",
+          "address": "Jalan Wangun"
+        }
+      ],
+      "extra": [
+        {
+          "hobi": "Olahraga",
+          "makanan favorit": "rendang"
+        }
+      ]
+}
