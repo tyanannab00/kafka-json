@@ -17,6 +17,6 @@ producer = KafkaProducer(bootstrap_servers=['localhost:9092'],
 if __name__ == "__main__":
         # registered_user = get_registered_user()
         # print(registered_user)
-        producer.send("latihan-jumat", json_object)
+        producer.send("20211215", json_object)
         time.sleep(4)
 
